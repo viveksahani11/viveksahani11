@@ -38,6 +38,9 @@
 * 💼 [**LinkedIn**](https://www.linkedin.com/in/vivek-sahani-8b15a133a/)
 * 🔭 Always open for collaboration & freelance gigs!
 
+<img src="https://raw.githubusercontent.com/viveksahani11/viveksahani11/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation"/>
+
+
 ---
 
 > "Code. Create. Collaborate. Repeat."
